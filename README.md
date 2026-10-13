@@ -21,7 +21,7 @@ A simple calculator app built using Python and Tkinter GUI.
 ## ▶️ How to Run
 
 ```bash
-python main.py 
+python "Calculator App.py"
 ```
 ## 📚 Learning Purpose
 This project was created as part of my Python learning journey to practice GUI development using Tkinter.
